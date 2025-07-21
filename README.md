@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anmol Kumar</h1>
+<h1 align="center">Hi 👋, I'm Amol Kumar</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN + AI Integration | Passionate Problem Solver</h3>
 
 <!-- 🔥 Profile Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hey%20I’m%20Anmol%20Kumar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI%20Explorer&descSize=20&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hey%20I’m%20Amol%20Kumar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI%20Explorer&descSize=20&descAlignY=60" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm Anmol Kumar – a self-taught developer who started with `<html>` and is now building full-stack applications with integrated AI.
+🎓 I'm Amol Kumar – a self-taught developer who started with `<html>` and is now building full-stack applications with integrated AI.
 
 💡 I believe in building real things that make people’s lives easier — from UI tools to smart AI products.
 
