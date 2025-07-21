@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-```js
+
 const Anmol = {
   role: "Full Stack Developer",
   focus: ["MERN Stack", "AI Integration", "Product Building"],
