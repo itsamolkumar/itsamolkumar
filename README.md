@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amol Kumar</h1>
+<h1 align="center">Hi 👋, I'm Anmol Kumar</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN + AI Integration | Passionate Problem Solver</h3>
 
 <!-- 🔥 Profile Banner -->
@@ -15,40 +15,28 @@
 
 ### 👨‍💻 About Me
 
+🎓 I'm Anmol Kumar – a self-taught developer who started with `<html>` and is now building full-stack applications with integrated AI.
 
-const Anmol = {
-  role: "Full Stack Developer",
-  focus: ["MERN Stack", "AI Integration", "Product Building"],
-  learning: ["Next.js", "TypeScript", "Whisper API"],
-  hobbies: ["Debugging", "Designing", "Exploring Tech"],
-  motto: "Code. Break. Fix. Repeat. Grow.",
-}
+💡 I believe in building real things that make people’s lives easier — from UI tools to smart AI products.
 
-
----
-
-### 🧭 About Me
-
-🎓 I'm Amol Kumar – a self-driven developer who started with `<html>` and is now building full-stack applications with integrated AI.
-
-💻 I believe in building real things that make people’s lives easier — from small UI tools to AI-powered assistants.
-
-🛠️ Currently exploring:
+🧭 Currently exploring:
 - GPT & Whisper integration with React
 - Advanced backend architecture (JWT, file uploads, sockets)
 - SaaS-ready UI design & productivity tools
 
+🎯 Motto: **Code. Break. Fix. Repeat. Grow.**
+
 ---
 
-### 🧠 My Journey So Far
+### 🛤️ My Developer Journey (From Beginner to Pro)
 
-| Phase | Focus | Technologies | Sample Projects |
-|-------|-------|--------------|-----------------|
-| 🐣 Beginner | HTML, CSS, JS | Basics | To-Do App, Calculator |
-| 🛰️ Dynamic Web | APIs & DOM | JS + Fetch API | Weather App, Movie Search |
-| ⚛️ React World | Components, Hooks | React, Tailwind | Notes App, Chat UI |
-| 🧱 Full Stack | MERN | MongoDB, Node, Auth | Blog App, Cart System |
-| 🤖 AI Level | GPT, DALL·E, Whisper | OpenAI, React | GPT Chatbot, AI Image Generator |
+| 🚀 Level         | 💡 What I Did                    | 🧠 Skills Gained              | 🛠️ Sample Projects            |
+|------------------|----------------------------------|-------------------------------|-------------------------------|
+| 🐣 Beginner      | Learnt HTML, CSS, JS basics      | Layout, DOM, Web structure    | To-Do App, Calculator         |
+| ⚡ Intermediate  | Explored JS APIs & React         | API fetch, Props, State Mgmt  | Weather App, Notes App        |
+| 🎨 Frontend Pro  | Responsive UI with Tailwind      | Reusable UI, SPA structure    | Chat UI, Portfolio            |
+| 🧱 Backend Dev   | Built full-stack apps            | Express, MongoDB, Auth        | Blog Platform, Notes API      |
+| 🤖 AI Integrator | GPT, Whisper, DALL·E integration | Prompting, LLM design         | AI Chatbot, Image Generator   |
 
 ---
 
@@ -56,44 +44,38 @@ const Anmol = {
 
 > 💡 _“Every project I build is a milestone in my growth — from solving bugs to solving real-world problems.”_
 
-- 🔹 **To-Do List App**  
-  Manage tasks with LocalStorage.  
-  [GitHub](https://github.com/itsamolkumar/todo-app)
+- 🔹 **To-Do List App** – Manage tasks with LocalStorage  
+  [🔗 GitHub](https://github.com/itsamolkumar/todo-app)
 
-- 🔹 **Weather App**  
-  Real-time weather using OpenWeatherMap API.  
-  [GitHub](https://github.com/itsamolkumar/weather-app)
+- 🔹 **Weather App** – Real-time weather using OpenWeatherMap API  
+  [🔗 GitHub](https://github.com/itsamolkumar/weather-app)
 
-- 🔹 **React Notes App**  
-  Simple yet smart note-taking.  
-  [GitHub](https://github.com/itsamolkumar/notes-app)
+- 🔹 **React Notes App** – Simple yet smart note-taking  
+  [🔗 GitHub](https://github.com/itsamolkumar/notes-app)
 
-- 🔹 **MERN Blog Platform**  
-  Blog creation with auth, CRUD, and database.  
-  [GitHub](https://github.com/itsamolkumar/mern-blog)
+- 🔹 **MERN Blog Platform** – Blog creation with auth, CRUD, and DB  
+  [🔗 GitHub](https://github.com/itsamolkumar/mern-blog)
 
-- 🔹 **GPT Chat Assistant**  
-  AI-powered chatbot using OpenAI.  
-  [GitHub](https://github.com/itsamolkumar/gpt-chatbot)
+- 🔹 **GPT Chat Assistant** – AI-powered chatbot using OpenAI  
+  [🔗 GitHub](https://github.com/itsamolkumar/gpt-chatbot)
 
-- 🔹 **AI Image Generator**  
-  Create images from text prompts.  
-  [GitHub](https://github.com/itsamolkumar/ai-image-generator)
+- 🔹 **AI Image Generator** – Create images from text prompts  
+  [🔗 GitHub](https://github.com/itsamolkumar/ai-image-generator)
 
 ---
 
-### 🛠️ Tools & Tech I Love
+### 🛠️ Tech Stack & Tools I Love
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
