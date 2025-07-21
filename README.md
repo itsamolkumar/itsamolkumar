@@ -1,9 +1,29 @@
 <h1 align="center">Hi 👋, I'm Amol Kumar</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN + AI Integration | Passionate Problem Solver</h3>
 
+<!-- 🔥 Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=00F7FF&lines=From+%3Chello+world%3E+to+real+AI-powered+apps.;Building+projects+that+solve+real+problems.;Always+Learning+%F0%9F%93%9A%2C+Always+Coding+%F0%9F%94%A5" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hey%20I’m%20Anmol%20Kumar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI%20Explorer&descSize=20&descAlignY=60" />
 </p>
+
+<!-- ⌨️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=66FCF1&center=true&vCenter=true&width=500&lines=Crafting+Code+with+Purpose.;Turning+Ideas+into+Real+Products.;Building+with+AI%2C+Design+and+Logic." alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+```js
+const Anmol = {
+  role: "Full Stack Developer",
+  focus: ["MERN Stack", "AI Integration", "Product Building"],
+  learning: ["Next.js", "TypeScript", "Whisper API"],
+  hobbies: ["Debugging", "Designing", "Exploring Tech"],
+  motto: "Code. Break. Fix. Repeat. Grow.",
+}
+
 
 ---
 
