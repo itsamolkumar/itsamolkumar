@@ -34,7 +34,7 @@
 |------------------|----------------------------------|-------------------------------|-------------------------------|
 | 🐣 Beginner      | Learnt HTML, CSS, JS basics      | Layout, DOM, Web structure    | To-Do App, Calculator         |
 | ⚡ Intermediate  | Explored JS APIs & React         | API fetch, Props, State Mgmt  | Weather App, Notes App        |
-| 🎨 Frontend Pro  | Responsive UI with Tailwind      | Reusable UI, SPA structure    | Chat UI, Portfolio            |
+| 🎨 Frontend Pro  | Responsive UI with Tailwind      | Reusable UI, SPA structure    | HookedBlogger, Portfolio      |
 | 🧱 Backend Dev   | Built full-stack apps            | Express, MongoDB, Auth        | Blog Platform, Notes API      |
 | 🤖 AI Integrator | GPT, Whisper, DALL·E integration | Prompting, LLM design         | AI Chatbot, Image Generator   |
 
@@ -46,6 +46,9 @@
 
 - 🔹 **To-Do List App** – Manage tasks with LocalStorage  
   [🔗 GitHub](https://github.com/itsamolkumar/todo-app)
+
+  - 🔹 **Hooked Blogger** – A blogging website  
+  [🔗 GitHub](https://github.com/itsamolkumar/hooked-blogger)
 
 - 🔹 **Weather App** – Real-time weather using OpenWeatherMap API  
   [🔗 GitHub](https://github.com/itsamolkumar/weather-app)
