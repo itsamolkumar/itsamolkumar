@@ -47,7 +47,7 @@
 - 🔹 **To-Do List App** – Manage tasks with LocalStorage  
   [🔗 GitHub](https://github.com/itsamolkumar/todo-app)
 
-  - 🔹 **Hooked Blogger** – A blogging website  
+ - 🔹 **Hooked Blogger** – A blogging website  
   [🔗 GitHub](https://github.com/itsamolkumar/hooked-blogger)
 
 - 🔹 **Weather App** – Real-time weather using OpenWeatherMap API  
