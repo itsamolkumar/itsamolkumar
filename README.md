@@ -45,7 +45,7 @@
 > 💡 _“Every project I build is a milestone in my growth — from solving bugs to solving real-world problems.”_
 
 - 🔹 **To-Do List App** – Manage tasks with LocalStorage  
-  [🔗 GitHub](https://github.com/itsamolkumar/todo-app)
+  [🔗 GitHub](https://github.com/itsamolkumar/react-todo-using-contextApi)
 
  - 🔹 **Hooked Blogger** – A blogging website  
   [🔗 GitHub](https://github.com/itsamolkumar/hooked-blogger)
